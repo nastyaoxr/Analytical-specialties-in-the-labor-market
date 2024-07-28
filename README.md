@@ -51,3 +51,7 @@ code meaning:
   - 2: 3-6
   - 3: 0
   - 4: 6-
+- disabled, test, minor
+  - 0: False
+  - 1: True
+  - 
