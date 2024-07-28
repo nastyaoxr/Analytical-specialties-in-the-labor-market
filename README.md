@@ -54,4 +54,8 @@ code meaning:
 - disabled, test, minor
   - 0: False
   - 1: True
-  - 
+- employment_type
+  - 1: Полная занятость
+  - 2: Стажировка
+  - 3: Частичная занятость
+  - 4: Временная занятость
